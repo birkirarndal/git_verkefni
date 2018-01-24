@@ -22,3 +22,6 @@ a. sýnir öll merge conflicts. b. sýnir conflicts á base file. c. sýnir brey
 
 4. 	Hvað er útgáfustýring (e.version control)? 
 útgáfustýring er system sem recordar breytingar á skrám svo að það sé hægt að fara aftur á áhveðin gerð af skránni seinna.
+
+5.	Hverjir eru helstu kostir við að nota GIT?
+git er getur haldið gömlum gerðum af skránni sem maður er að vinna í þannig ef eitthvað klikkar þá getur maður farið aftur til baka í skrána sem virkaði og síðan er hæt að vinna með morgu fólki í sömu skrá. 
