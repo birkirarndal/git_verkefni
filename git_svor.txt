@@ -40,3 +40,4 @@ Linus Torvalds
 
 10.	Hvar er GIT helst notað?
 git er helst notað fyrir forritun.
+Birkir Arndal
