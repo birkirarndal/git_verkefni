@@ -34,3 +34,6 @@ repository sem er búinn til með "git init" skipun er kallaðar working directo
 
 8.	Hvenær er sniðugt að nota greinar (branches)? 
 þegar maður byrjar að vinna á nýrri feature.
+
+9.	Hver fann upp GIT?
+Linus Torvalds
