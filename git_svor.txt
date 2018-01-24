@@ -31,3 +31,6 @@ git er getur haldið gömlum gerðum af skránni sem maður er að vinna í þan
 
 7.	Hvað er "Working directory"?" "Staging area"?" og "Repository" í GIT?
 repository sem er búinn til með "git init" skipun er kallaðar working directory. Staging er  skrefið áður en að það er búið að gera commit. git geymir verkefni, skrá þegar þær breytast, þessar upplýsingar geymir git í repository.
+
+8.	Hvenær er sniðugt að nota greinar (branches)? 
+þegar maður byrjar að vinna á nýrri feature.
