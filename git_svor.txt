@@ -11,5 +11,11 @@ Git spurningar og svör
 	git clone: býr til afrit af remote repository.
 	git log: sýnir commit history.
 	git status: skilar virkandi branch.
-	git diff: sýnir öll mere conflicts.
+	git diff: sýnir öll merge conflicts.
 	git checkout: skiptir um branch.
+
+3. Hver er munurinn á eftirfarandi git skipunum:
+	a) git diff 
+	b) git diff --staged 
+	c) git diff commit1 commit2
+a. sýnir öll merge conflicts. b. sýnir conflicts á base file. c. sýnir breytingar aður en að það er merge-að.
