@@ -19,3 +19,6 @@ Git spurningar og svör
 	b) git diff --staged 
 	c) git diff commit1 commit2
 a. sýnir öll merge conflicts. b. sýnir conflicts á base file. c. sýnir breytingar aður en að það er merge-að.
+
+4. 	Hvað er útgáfustýring (e.version control)? 
+útgáfustýring er system sem recordar breytingar á skrám svo að það sé hægt að fara aftur á áhveðin gerð af skránni seinna.
