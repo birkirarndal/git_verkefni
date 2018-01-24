@@ -1,8 +1,15 @@
 Git spurningar og svör
 
 1. Hvað gera eftirfarandi Linux skipanir?
-	cd:	breytir í home directory
-	cd ~: breytir í root directory
-	ls: sýnir directory lista
+	cd:	breytir í home directory.
+	cd ~: breytir í root directory.
+	ls: sýnir directory lista.
 	pwd: sýnir hvað directory maður er í.
 	mkdir: býr til directory.
+
+2. Hvað gera eftirfarandi git skipanir og hvers vegna eru þær gagnlegar?
+	git clone: býr til afrit af remote repository.
+	git log: sýnir commit history.
+	git status: skilar virkandi branch.
+	git diff: sýnir öll mere conflicts.
+	git checkout: skiptir um branch.
