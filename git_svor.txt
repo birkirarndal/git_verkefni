@@ -37,3 +37,6 @@ repository sem er búinn til með "git init" skipun er kallaðar working directo
 
 9.	Hver fann upp GIT?
 Linus Torvalds
+
+10.	Hvar er GIT helst notað?
+git er helst notað fyrir forritun.
